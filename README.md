@@ -10,7 +10,7 @@ CREATE REPOSITORY IN GITHUB
 
 CLONE REPOSITORY TO LOCAL PC
 1. In Github: Clone or Download - copy URL
-2. In SourceTree: New - Clone from URL - paste URL, choose destination path (create new folder if necessary)
+2. In SourceTree: New - Clone from URL - paste URL, choose destination path (create new folder in pc directory)
 
 MAKE CHANGES ON LOCAL PC
 1. In Atom (or ANother text editor): make changes and save
