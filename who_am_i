@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My First Webpage</title>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <h1>Carole Kurowski</h1>
+  <h3>Who am I?</h3>
+  <p>I'm British. Originally from England, but have moved around a bit.
+    First north of the border to Edinburgh for 10 years. Then switched continents,
+    spending 7 years in Shanghai, before relocating to Helsinki in July 2015.
+  <br/>
+</p>
+  <ul>
+    <li><a href="https://www.piewitch.fi/">I bake pies</a></li>
+    <li><a href="http://www.carolessuperteaadventure.com/">I love tea</a></li>
+    <li>
+  </ul>
+</body>
+
+
+</html>
